@@ -10,11 +10,10 @@ namespace PreeSceningTest
 {
     public class PreeSceningTest
     {
-        private  NessusServices _nessusService;
+        private  NessusServices _nessusService=new NessusServices();
 
-        public PreeSceningTest(NessusServices nessusService)
+        public PreeSceningTest()
         {
-            _nessusService = nessusService;
         }
 
         public async void TestMain()
