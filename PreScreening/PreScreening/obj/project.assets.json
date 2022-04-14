@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Path\\Desktop\\PreScreening\\PreScreening\\PreScreening\\PreScreening.csproj",
+      "projectUniqueName": "C:\\Users\\Path\\Documents\\GitHub\\PreScreeningTask\\PreScreening\\PreScreening\\PreScreening.csproj",
       "projectName": "PreScreening",
-      "projectPath": "C:\\Users\\Path\\Desktop\\PreScreening\\PreScreening\\PreScreening\\PreScreening.csproj",
+      "projectPath": "C:\\Users\\Path\\Documents\\GitHub\\PreScreeningTask\\PreScreening\\PreScreening\\PreScreening.csproj",
       "packagesPath": "C:\\Users\\Path\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Path\\Desktop\\PreScreening\\PreScreening\\PreScreening\\obj\\",
+      "outputPath": "C:\\Users\\Path\\Documents\\GitHub\\PreScreeningTask\\PreScreening\\PreScreening\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

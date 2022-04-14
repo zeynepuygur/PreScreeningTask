@@ -1,0 +1,10 @@
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\bin\Debug\netcoreapp3.1\PreScreening.deps.json
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\bin\Debug\netcoreapp3.1\PreScreening.dll
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\bin\Debug\netcoreapp3.1\PreScreening.pdb
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.csprojAssemblyReference.cache
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.AssemblyInfoInputs.cache
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.AssemblyInfo.cs
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.csproj.CoreCompileInputs.cache
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.dll
+C:\Users\Path\Documents\GitHub\PreScreeningTask\PreScreening\PreScreening\obj\Debug\netcoreapp3.1\PreScreening.pdb

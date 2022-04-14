@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MxJEEh/95AxrWPR6VEbWQseSGIgvKFdl3IRrRIIFGk1fb0rvsu4HuTjVkDvIEHG6KcRrCINDGLMwCVDvyvFccw==",
+  "dgSpecHash": "ke+CboNb+VscL9NQOsrfovuQoqa6e+rWS0jSIYKtK5PK8LUQ6YXV+U/641ifYxcbKUGFz5TqTkGoyjO7tCGLtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Path\\Desktop\\PreScreening\\PreScreening\\PreScreening\\PreScreening.csproj",
+  "projectFilePath": "C:\\Users\\Path\\Documents\\GitHub\\PreScreeningTask\\PreScreening\\PreScreening\\PreScreening.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Path\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreScreening", "PreScreening\PreScreening.csproj", "{3BD92B90-2A3C-4ACD-A9C0-3F8697562EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreScreening", "PreScreening\PreScreening.csproj", "{3BD92B90-2A3C-4ACD-A9C0-3F8697562EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreeSceningTest", "PreeSceningTest\PreeSceningTest.csproj", "{56A56B42-28B4-4FB7-839F-11EEEE8568D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3BD92B90-2A3C-4ACD-A9C0-3F8697562EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BD92B90-2A3C-4ACD-A9C0-3F8697562EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BD92B90-2A3C-4ACD-A9C0-3F8697562EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A56B42-28B4-4FB7-839F-11EEEE8568D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A56B42-28B4-4FB7-839F-11EEEE8568D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A56B42-28B4-4FB7-839F-11EEEE8568D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A56B42-28B4-4FB7-839F-11EEEE8568D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

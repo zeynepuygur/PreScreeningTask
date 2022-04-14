@@ -74,5 +74,12 @@ namespace PreScreening.Controllers
 
             return file;
         }
+
+        public async Task<Dictionary<string, string>> GetPolicyTemplatesAsync()
+        {
+            var response = await _nessusService.ConnectNessusAsync("GET", "/editor/policy/templates");
+            var data = response.SelectToken("templates").ToDictionary(_ => (string)_["title"], _ => (string)_["uuid"]);
+            return data;
+        }
     }
 }
