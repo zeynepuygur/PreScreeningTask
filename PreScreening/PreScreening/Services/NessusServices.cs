@@ -15,8 +15,8 @@ namespace PreScreening.Services
         public async Task<JObject> ConnectNessusAsync(string method, string resource, JObject param = null)
         {
             //nessusip
-            Uri uri = new Uri(string.Format("https://{0}:8834{1}", resource));
-
+            Uri uri = new Uri(string.Format("https://localhost:8834{0}", resource));
+            
             switch (method.ToUpper())
             {
                 default:
